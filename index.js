@@ -19,3 +19,7 @@ logo.addEventListener('mouseover',function(){
      }
 
 
+let fname  = 'olawale paul john';
+let s = fname.split(' ')
+console.log(s)
+console.log(s[0])
